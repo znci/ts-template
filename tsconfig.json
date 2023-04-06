@@ -14,8 +14,7 @@
 			"node"
 		],
 		"lib": [
-			"es6",
-			"dom"
+			"es6"
 		],
 		"esModuleInterop": true,
 		"skipLibCheck": true,
@@ -24,9 +23,8 @@
 		"useUnknownInCatchVariables": false, // TypeScript 4.4+ only!
 	},
 	"include": [
-		"src/**/*.ts",
-		"src/**/*.js"
-	],
+		"src/**/*.ts"
+		],
 	"exclude": [
 		"node_modules",
 		"<node_internals>/**",
