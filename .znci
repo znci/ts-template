@@ -1,0 +1,8 @@
+NAME="ts-template"
+DESCRIPTION="Change me!"
+VERSION="v7.2.7"
+PRIVATE=0
+
+PROJECT_LEAD="znci"
+CONTRIBUTORS=["znci"]
+INTERNAL_VERSION=1
