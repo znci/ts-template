@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.5.2
+      - name: Temp
+        run: ls && cd ..
       - name: Install Modules
         run: npm install --save-dev
       - name: Build
