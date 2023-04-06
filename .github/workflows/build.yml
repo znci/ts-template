@@ -1,6 +1,9 @@
 name: Build & Run
 run-name: ${{ github.actor }}'s build
-on: [push]
+on:
+  push:
+  workflow_dispatch:
+  
 jobs:
   Build:
     runs-on: ubuntu-latest
