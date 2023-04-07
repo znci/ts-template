@@ -1,8 +1,6 @@
 NAME="ts-template"
-DESCRIPTION="Change me!"
-VERSION="v7.2.7"
+DESCRIPTION="Stupid simple TypeScript template with Nodemon support."
+VERSION="v1.0.1"
 PRIVATE=0
 
-PROJECT_LEAD="znci"
-CONTRIBUTORS=["znci"]
-INTERNAL_VERSION=1
+INTERNAL_VERSION=2
