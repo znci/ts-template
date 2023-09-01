@@ -1,6 +1,0 @@
-NAME="ts-template"
-DESCRIPTION="Stupid simple TypeScript template with Nodemon support."
-VERSION="v1.0.1"
-PRIVATE=0
-
-INTERNAL_VERSION=2
