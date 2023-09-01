@@ -15,3 +15,4 @@ Stupid simple TypeScript template with Nodemon support.
 - .gitignore with node_modules and bin
 - src/ with index.ts reaady for use!
 
+# mango-motd
